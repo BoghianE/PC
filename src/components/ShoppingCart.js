@@ -9,7 +9,7 @@ const ShoppingCart = (cart) => {
             {cart.map((c) => {
                 return(
                     <div>
-                        c.name
+                        c.price
                     </div>
                 )
             })}
